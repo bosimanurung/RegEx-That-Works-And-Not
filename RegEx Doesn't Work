@@ -1,0 +1,1 @@
+To make a new column/field named postal_code that obtained from the address column/field. Wanna use the RegEx, but it doesn't work, so i use the manual way.
