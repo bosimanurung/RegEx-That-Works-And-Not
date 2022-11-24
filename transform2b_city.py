@@ -1,5 +1,5 @@
 #pakai regex tdk ketemu (tdk berhasil, hasilnya Nan semua), jadi coba cara manual (with function) -> msh error
-#df_participant['city'] = df_participant['address'].str.extract(r'(?<=\n)(\w,+)(?=,)') -> tdk berhasil
+#df_participant['city'] = df_participant['address'].str.extract(r'(?<=\n)(\w,+)(?=,)') -> tdk berhasil (doesn't work)
 
 import pandas as pd
 import numpy as np
